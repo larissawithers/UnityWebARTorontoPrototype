@@ -8,16 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/IntroJay.unity
     guid: 974e9cba455fa35419874af00de2b1cc
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/QuizGame.unity
     guid: dc749e46bb28d684cb34edd29e3ac226
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Wildlife.unity
     guid: 8d3cd345a0df21c41be235905bcd9ba1
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/MainScene.unity
     guid: b522ef6d1fcd25449bc5c21a14ef185d
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: a06a921debfb09046b95530dc2b2d95e, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: b333951b1fe54994b8fc68b6c004b044, type: 2}
