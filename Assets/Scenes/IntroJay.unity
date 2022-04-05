@@ -337,7 +337,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dca0c9589f76c3a4bbeba3b0f691dfd9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: MainMenu
+  sceneToLoad: MapPage
   Button: {fileID: 1946606042}
 --- !u!4 &1122450087
 Transform:
@@ -423,7 +423,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: GET STARTED
+  m_Text: NEXT
 --- !u!222 &1299663306
 CanvasRenderer:
   m_ObjectHideFlags: 0
