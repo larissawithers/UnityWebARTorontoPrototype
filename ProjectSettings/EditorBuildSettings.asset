@@ -18,11 +18,11 @@ EditorBuildSettings:
     path: Assets/Scenes/MainScene.unity
     guid: b522ef6d1fcd25449bc5c21a14ef185d
   - enabled: 1
-    path: Assets/Scenes/Downtown.unity
-    guid: 48e2d708310a0a245a8c7ee71c6758ba
-  - enabled: 1
     path: Assets/Scenes/Downtown AR.unity
     guid: 1a3d3571b726bbc45b3bd5f4c2a49f0c
+  - enabled: 1
+    path: Assets/Scenes/Downtown.unity
+    guid: 374e291411010b54ca8caab980049e16
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: a06a921debfb09046b95530dc2b2d95e, type: 2}
     com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 4019631bb63f59546826da0ccbbb9276, type: 2}
